@@ -1,0 +1,7 @@
+A litrature bot for Discord made using Python and Javascript in Replit.
+Core commands for the bot: 
+getting book information:   -metafetch (book name without the parentheses)
+getting book cover:         -cover (book name without the parentheses)
+initialising the bot:       %hiya!
+
+Enjoy!
